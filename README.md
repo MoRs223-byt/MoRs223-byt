@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mors223-byt&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mors223-byt&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mors223-byt&theme=merko)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mors223-byt&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align = "center"> Hi there, i'm MoRs <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExendwYzM4eHRxbWN5N2VyZ3BsNWxkYXZhczJzZ2UzdWh6aXhtdmY3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltIFdjNAasOwVvKhvx/giphy.gif" height = "32" /></h1>
