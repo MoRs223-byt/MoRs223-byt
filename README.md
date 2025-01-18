@@ -2,4 +2,4 @@
 <h1 align = "center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+MoRs+and+i+love+minions" alt="Typing SVG" /></a>
 
 <h1 align = "center"> Im love play games and i learn Python
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoRs223-byt)](https://github.com/anuraghazra/github-readme-stats)
